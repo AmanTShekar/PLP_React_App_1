@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+npm-debug.log
+yarn-error.log
+
+# React / Vite
+.vite/
+.idea/
+.DS_Store
+
+# Python / Django
+__pycache__/
+*.pyc
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.egg-info/
+.env
+/staticfiles/
+media/
+
+# Misc
+*.swp
