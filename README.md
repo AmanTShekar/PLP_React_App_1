@@ -129,7 +129,7 @@ Visit: [http://localhost:5173](http://localhost:5173) (default Vite dev server p
 ## Screenshots
 
 ### Dashboard
-![Dashboard](plp_frontend/src/assets/dashboard.png)
+![Dashboard](plp_frontend/src/assets/Dashboard.png)
 
 ### Student Card
 ![Student Card](plp_frontend/src/assets/student_card.png)
